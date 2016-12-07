@@ -83,3 +83,5 @@ Effect of Update formulas:
 Computer Vision Before 2012 and After 2016:
     We defined the features and computed scores.
     But in Deep leaning : we don't define features instead we calculate weights and loss function and we try to minimize loss and get ultimately class scores. Here we are considering data of all the pixels. Which turns out to be more robust.
+
+  
